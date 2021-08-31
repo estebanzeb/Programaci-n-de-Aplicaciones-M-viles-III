@@ -1,4 +1,6 @@
-'use strict'
+
+//
+'use strict';
 
 /*numer=3;
 let lavariable=5;
